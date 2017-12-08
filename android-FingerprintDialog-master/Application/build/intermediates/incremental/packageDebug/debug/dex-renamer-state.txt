@@ -1,0 +1,19 @@
+#Sat Dec 09 00:23:39 IST 2017
+renamed.5=classes6.dex
+renamed.4=classes5.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.5=/Applications/NetBeans/AndroidProject/android-FingerprintDialog-master/Application/build/intermediates/transforms/dexMerger/debug/31
+base.4=/Applications/NetBeans/AndroidProject/android-FingerprintDialog-master/Application/build/intermediates/transforms/dexMerger/debug/33
+base.3=/Applications/NetBeans/AndroidProject/android-FingerprintDialog-master/Application/build/intermediates/transforms/dexMerger/debug/30
+base.2=/Applications/NetBeans/AndroidProject/android-FingerprintDialog-master/Application/build/intermediates/transforms/dexMerger/debug/32
+base.1=/Applications/NetBeans/AndroidProject/android-FingerprintDialog-master/Application/build/intermediates/transforms/dexMerger/debug/35
+base.0=/Applications/NetBeans/AndroidProject/android-FingerprintDialog-master/Application/build/intermediates/transforms/dexMerger/debug/34
+file.5=/Applications/NetBeans/AndroidProject/android-FingerprintDialog-master/Application/build/intermediates/transforms/dexMerger/debug/31/classes.dex
+file.4=/Applications/NetBeans/AndroidProject/android-FingerprintDialog-master/Application/build/intermediates/transforms/dexMerger/debug/33/classes.dex
+file.3=/Applications/NetBeans/AndroidProject/android-FingerprintDialog-master/Application/build/intermediates/transforms/dexMerger/debug/30/classes.dex
+file.2=/Applications/NetBeans/AndroidProject/android-FingerprintDialog-master/Application/build/intermediates/transforms/dexMerger/debug/32/classes.dex
+file.1=/Applications/NetBeans/AndroidProject/android-FingerprintDialog-master/Application/build/intermediates/transforms/dexMerger/debug/35/classes.dex
+file.0=/Applications/NetBeans/AndroidProject/android-FingerprintDialog-master/Application/build/intermediates/transforms/dexMerger/debug/34/classes.dex
